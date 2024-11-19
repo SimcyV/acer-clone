@@ -6,6 +6,9 @@
 body {
   overflow-x: hidden; /* Hides horizontal overflow */
 }
+.container {
+  overflow-x: hidden;
+}
 .main-container{
     width:100%;
 }
